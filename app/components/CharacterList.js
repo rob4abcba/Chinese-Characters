@@ -36,6 +36,7 @@ export default class CharacterList extends React.Component {
   }
 
   render() {
+    debugger;
     return (
       <SafeAreaView style={styles.container}>
         <FlatList
